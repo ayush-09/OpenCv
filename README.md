@@ -7,7 +7,7 @@
 ![Screenshot (65)](https://user-images.githubusercontent.com/51924622/92778766-197ac200-f3bf-11ea-8910-204a53215373.png)
 # Car Plate Detector :
  * Detect the number Plate of the car.
-**Input Img**
+# Input Img
 ![car](https://user-images.githubusercontent.com/51924622/92778806-21d2fd00-f3bf-11ea-9dff-7096f4b58e1a.jpg)
-**Output Img**
+# Output Img
 ![result](https://user-images.githubusercontent.com/51924622/92778816-239cc080-f3bf-11ea-811b-b2dcf3d7291a.png)
